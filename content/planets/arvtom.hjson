@@ -51,10 +51,8 @@ mesh: {
 hiddenItems: [
     "copper"
     "lead"
-    "scrap"
     "graphite"
     "coal"
-    "titanium"
     "thorium"
     "silicon"
     "plastanium"
@@ -65,7 +63,6 @@ hiddenItems: [
     "blast-compound"
     "pyratite"
     "metaglass"
-    "beryllium"
     "oxide"
     "tungsten"
     "carbide"
