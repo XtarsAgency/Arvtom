@@ -5,7 +5,7 @@ size: 3
 
 itemCapacity: 2300
 unitCapModifier: 20
-unitType: "zone"
+unitType: "polaroid"
 incinerateNonBuildable: true
 isFirstTier: true
 
