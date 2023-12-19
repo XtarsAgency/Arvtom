@@ -1,0 +1,24 @@
+type: CoreBlock
+category: effect
+health: 4500
+size: 3
+
+itemCapacity: 2300
+unitCapModifier: 20
+unitType: "zone"
+incinerateNonBuildable: true
+isFirstTier: true
+
+requirements: [
+    "scrap/300"
+  "titanium/140"
+  "beryllium/100"
+]
+
+research: {
+    root: true
+    name: @a-techtree
+	planet: arvtom
+}
+
+alwaysUnlocked: false
