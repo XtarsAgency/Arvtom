@@ -6,7 +6,7 @@ hasAtmosphere: false
 updateLighting: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
-atmosphereColor: 000000
+atmosphereColor: 000001
 drawOrbit: true
 
 accessible: true
@@ -38,8 +38,8 @@ mesh: {
     type: NoiseMesh
     planet: arvtom
     seed: 3823
-    color1: 40b0c0
-    color2: 2f8b2b
+    color1: 242424
+    color2: 9c9a88
     divisions: 3
     radius: 1.2
     octaves: 2
@@ -51,8 +51,10 @@ mesh: {
 hiddenItems: [
     "copper"
     "lead"
+    "scrap"
     "graphite"
     "coal"
+    "titanium"
     "thorium"
     "silicon"
     "plastanium"
@@ -63,6 +65,7 @@ hiddenItems: [
     "blast-compound"
     "pyratite"
     "metaglass"
+    "beryllium"
     "oxide"
     "tungsten"
     "carbide"
