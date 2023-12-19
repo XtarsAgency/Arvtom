@@ -1,18 +1,19 @@
 type: CoreBlock
 category: effect
-health: 4500
+health: 4000
 size: 3
 
-itemCapacity: 2300
-unitCapModifier: 20
+itemCapacity: 1500
+unitCapModifier: 15
 unitType: "polaroid"
 incinerateNonBuildable: true
 isFirstTier: true
+squareSprite: false
 
 requirements: [
-    "scrap/300"
-  "titanium/140"
-  "beryllium/100"
+    "scrap/600"
+"titanium/150"
+"beryllium/115"
 ]
 
 research: {
