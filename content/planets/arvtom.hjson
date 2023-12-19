@@ -16,7 +16,7 @@ sectorSeed: 0
 startSector: 1
 sectorSize: 0.1
 
-clearSectorOnLose: true
+clearSectorOnLose: false
 allowSectorInvasion: false
 allowLaunchToNumbered: false
 	
