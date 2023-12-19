@@ -21,4 +21,4 @@ research: {
 	planet: arvtom
 }
 
-alwaysUnlocked: false
+alwaysUnlocked: true
