@@ -1,0 +1,24 @@
+name: "arvtom"
+repo: "xtarsagency/arvtom"
+minGameVersion: 136
+version: "v1.0"
+
+displayName: "Arvtom: Last Descent"
+author: "[red[]]Xtarsagency"
+subtitle: "Zeridmuth's Sequel"
+description:
+
+'''
+Arvtom: Last descent is a pace game, where you will research new tech as you pass through the waves.
+
+The game resides at Arvtom Station, a lonely planet located extremely close to the Sun and Erekir.
+
+This mod interconnects with Zeridmuth: A New Beginning.
+
+If you finished the mod, you can request us on our discord server for your name to be written here.
+
+Enjoy your game!
+'''
+
+dependencies: []
+hideBrowser: false
