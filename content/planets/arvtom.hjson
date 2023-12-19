@@ -38,9 +38,8 @@ mesh: {
     type: NoiseMesh
     planet: arvtom
     seed: 3823
-    color1: b0bac0
+    color1: 40b0c0
     color2: 2f8b2b
-      color3: 424277
     divisions: 3
     radius: 1.2
     octaves: 2
