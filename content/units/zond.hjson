@@ -34,10 +34,10 @@ weapons: [
         type: RepairBeamWeapon
 		widthSinMag: 0.11
         x: 0
-        y: 2
+        y: 4
         mirror: false
         shootY: 0
-		beamWidth: 0.3
+		beamWidth: 0.8
         repairSpeed: 5.3
         fractionRepairSpeed: 0.2
         shootCone: 15
@@ -46,10 +46,10 @@ weapons: [
         targetBuildings: true
         autoTarget: false
         controllable: true
-        laserColor: fff000
+        laserColor: ece000
         healColor: ffff90
 		bullet: {
-		    maxRange: 45
+		    maxRange: 69
 		}
     }
 ]
@@ -57,7 +57,7 @@ engines: [
     {
         x: 0
         y: -3
-        radius: 0.8
+        radius: 1.2
         rotation: 0
     }
 ]
