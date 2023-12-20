@@ -39,7 +39,7 @@ mesh: {
     planet: arvtom
     seed: 3823
     color1: 242424
-    color2: cecfb5
+    color2: ff802b
     divisions: 3
     radius: 1.2
     octaves: 2
