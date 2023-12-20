@@ -19,14 +19,14 @@ mineTier: 1
 rotateSpeed: 4
 
 crashDamageMultiplier: 2
-hittable: true
+hittable: false
 targetable: false
 fogRadius: 10
 coreUnitDock: true
 outlineColor: 2d2f39
 
 payloadCapacity: 200
-pickupUnits: true
+pickupUnits: false
 vulnerableWithPayloads: true
 
 weapons: [
