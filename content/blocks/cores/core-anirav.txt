@@ -16,7 +16,7 @@ requirements: [
 "beryllium/115"
 ]
 
-#research: {
+research: {
     root: true
     name: @a-techtree
 	planet: arvtom
