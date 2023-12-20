@@ -1,0 +1,24 @@
+type: CoreBlock
+category: effect
+health: 4000
+size: 3
+
+itemCapacity: 2000
+unitCapModifier: 15
+unitType: "zond"
+incinerateNonBuildable: true
+isFirstTier: false
+
+requirements: [
+    "scrap/600"
+  "titanium/160"
+  "beryllium/145"
+]
+
+research: {
+    root: true
+    name: @a-techtree
+	planet: arvtom
+}
+
+alwaysUnlocked: true
