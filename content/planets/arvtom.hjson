@@ -11,7 +11,7 @@ drawOrbit: true
 
 accessible: true
 alwaysUnlocked: true
-defaultCore: "core-anirav"
+defaultCore: "core-sharded"
 sectorSeed: 0
 startSector: 1
 sectorSize: 0.1
