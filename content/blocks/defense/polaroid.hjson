@@ -9,7 +9,7 @@ recoil: 0.3
   innacuracy: 5
 
 ammoTypes: {
-	carbon: {
+	scrap: {
 		type: BasicBulletType
 		damage: 10
 		speed: 8
