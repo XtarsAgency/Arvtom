@@ -1,0 +1,36 @@
+type: ItemTurret
+category: turret
+size: 1
+health: 340
+
+reload: 0.08
+range: 30
+recoil: 0.3
+  innacuracy: 5
+
+ammoTypes: {
+	carbon: {
+		type: BasicBulletType
+		damage: 10
+		speed: 8
+		lifetime: 38
+		
+		width: 5
+		height: 15
+		
+		ammoMultiplier: 7
+	}
+}
+
+requirements: [
+    "scrap/10"
+  "recycled-scrap/5"
+]
+
+research: {
+    parent: "core-anirav"
+    requirements: [
+        "scrap/90"
+      "recycled-scrap/10"
+	]
+}
