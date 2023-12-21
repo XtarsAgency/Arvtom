@@ -6,10 +6,10 @@ health: 300
 craftTime: 105
 consumes: {
     items: [
-        "scrap/1"
+        "scrap/2"
 	]
 }
-outputItem: "aluminium-ingot/1"
+outputItem: "recycled-scrap/4"
 
 squareSprite: false
 
