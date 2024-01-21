@@ -1,7 +1,7 @@
 type: ItemTurret
 category: turret
 size: 1
-health: 340
+health: 500
 
 reload: 0.08
 range: 150
@@ -18,7 +18,7 @@ ammoTypes: {
 		width: 5
 		height: 15
 		
-		ammoMultiplier: 7
+		ammoMultiplier: 6
 	}
 }
 
