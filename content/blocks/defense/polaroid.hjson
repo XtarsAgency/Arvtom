@@ -4,7 +4,7 @@ size: 1
 health: 500
 
 reload: 0.08
-range: 150
+range: 240
 recoil: 0.3
   innacuracy: 5
 
@@ -13,12 +13,12 @@ ammoTypes: {
 		type: BasicBulletType
 		damage: 10
 		speed: 8
-		lifetime: 38
+		lifetime: 30
 		
 		width: 5
 		height: 15
 		
-		ammoMultiplier: 6
+		ammoMultiplier: 8
 	}
 }
 
